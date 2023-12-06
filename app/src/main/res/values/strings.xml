@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Football league</string>
+    <string name="label_competitions">Competitions</string>
+    <string name="label_competition_name">Competition name</string>
+    <string name="label_type">Type: %1$s</string>
+    <string name="EmptyResponse">No data available</string>
+    <string name="SomeError">Something went wrong</string>
+    <string name="label_start_date">Start date: %1$s</string>
+    <string name="label_end_date">End Date: %1$s</string>
+    <string name="label_winner">"Winner: %1$s"</string>
+    <string name="label_not_available">Not available</string>
+    <string name="label_available_seasons">Available Seasons: %1$s</string>
+</resources>
